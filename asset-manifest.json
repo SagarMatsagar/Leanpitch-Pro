@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Leanpitch-Pro/static/css/main.10b79b6f.css",
+    "main.js": "/Leanpitch-Pro/static/js/main.5e08616d.js",
+    "static/js/787.09f23788.chunk.js": "/Leanpitch-Pro/static/js/787.09f23788.chunk.js",
+    "static/media/bg-img.jpg": "/Leanpitch-Pro/static/media/bg-img.b9cd97d2b568eb87b53a.jpg",
+    "static/media/logo.jpeg": "/Leanpitch-Pro/static/media/logo.0a0d9eab8669306b1825.jpeg",
+    "index.html": "/Leanpitch-Pro/index.html",
+    "main.10b79b6f.css.map": "/Leanpitch-Pro/static/css/main.10b79b6f.css.map",
+    "main.5e08616d.js.map": "/Leanpitch-Pro/static/js/main.5e08616d.js.map",
+    "787.09f23788.chunk.js.map": "/Leanpitch-Pro/static/js/787.09f23788.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b79b6f.css",
+    "static/js/main.5e08616d.js"
+  ]
+}
